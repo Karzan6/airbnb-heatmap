@@ -1,8 +1,10 @@
 # airbnb-heatmap
 Pro Map
 
-## Airbnb Heatmap
-This repository hosts a Streamlit app for visualizing Airbnb data in London.
+# Airbnb Heatmap for London
 
-**View the live app here:** [Airbnb Heatmap](https://share.streamlit.io/Karzan6/airbnb-heatmap/heatmap_app.py)
+This repository provides a Streamlit application to visualize Airbnb listings in London as a heatmap.
 
+## How to Run
+
+1. Clone the repository:
